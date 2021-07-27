@@ -1,7 +1,5 @@
+fun main() {
 
-
-
-
-fun main(args: Array<String>) {
+   // It's ok to use function without class
    println("Hello World");
 }
